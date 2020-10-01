@@ -2,4 +2,5 @@
 
 int hello(const char* str) {
 	printf("Hello %s", str);
+	return 0;
 }
